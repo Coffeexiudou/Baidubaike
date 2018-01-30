@@ -6,7 +6,7 @@
 
 GET方式请求
 
-#　IPPool
+#IPPool
 
 一个IP代理池，提供restful api
 
